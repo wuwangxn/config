@@ -1,2 +1,3 @@
-name=Myles
-age=21
+user:
+  name: Myles
+  age : 21
